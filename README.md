@@ -1,2 +1,0 @@
-# spring-extensions
-Spring Extensions
