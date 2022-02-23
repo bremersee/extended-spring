@@ -21,6 +21,7 @@
   <url>https://github.com/bremersee/extended-spring</url>
 
   <modules>
+    <module>extended-spring-boot-autoconfigure</module>
   </modules>
 
   <properties>

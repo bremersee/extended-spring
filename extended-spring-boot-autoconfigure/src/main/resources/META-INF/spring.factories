@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+\
+org.bremersee.spring.boot.autoconfigure.data.mongo.MongoCustomConversionsAutoConfiguration
